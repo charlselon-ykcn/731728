@@ -3,7 +3,7 @@
 为什么听不懂 · 一个结构 · 三个场景。行业竖屏口播预上线 Demo，欢迎提出建议。
 
 模板与完整下载: https://motiongit.com/@adunext/industry-work-three-line-report
-版本: 1.0.2
+版本: 1.0.3
 Demo 已公开，下载开放状态以官网为准。
 
 ## 技术资料
