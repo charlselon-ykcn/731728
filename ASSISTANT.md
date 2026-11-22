@@ -3,7 +3,7 @@
 Find the point · Build a structure · Apply it. Prelaunch portrait talking-head demo. Feedback welcome.
 
 Template & full download: https://motiongit.com/@adunext/industry-work-three-line-report
-Version: 1.0.1
+Version: 1.0.2
 Demo available. Check the official page for current download availability.
 
 ## Technical reference
